@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1732528406 source:e:\academic project\file ponter\main.c
+	<stdio.h>
+	<stdlib.h>
+	"user_interface.h"
+
+1733135569 e:\academic project\file ponter\file_write.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	"Sign in.h"
+
+1732941207 e:\academic project\file ponter\file_open.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1732718006 e:\academic project\file ponter\headers.h
+	<stdio.h>
+	<conio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	"file_write.h"
+	"file_open.h"
+	"Sign Up.h"
+	"Sign in.h"
+
+1732941395 e:\academic project\file ponter\user_interface.h
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<string.h>
+	"headers.h"
+
+1733134432 e:\academic project\file ponter\sign up.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<direct.h>
+
+1733135442 e:\academic project\file ponter\sign in.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+
